@@ -78,7 +78,7 @@ export default {
     },
     created :  async function(){
         try {
-            let response = await ContactService.getAllContacts();
+            let response = await ContactService.getAllContacts()
             this.contacts = response.data
             console.log(this.contacts)
             
