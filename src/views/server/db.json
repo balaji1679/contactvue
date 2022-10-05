@@ -1,0 +1,36 @@
+{
+    "contacts": [
+        {
+      "Id":"abc" ,
+      "name": "virat",
+      "mobile": 1897,
+      "Email": "vk@18",
+      "Role": "batsmen",
+      "photourl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToxgsAxxcGp0odN7v6HB7KIXpwMvOe5-dOJWFgaiQ&s"
+        },
+        {
+            "Id":"def" ,
+            "name": "rohit",
+            "mobile": 4578,
+            "Email": "rs@45",
+            "Role": "captain",
+            "photourl":"https://static.javatpoint.com/biography/images/rohit-sharma.png"
+        },
+        {
+            "Id":"ghi" ,
+            "name": "Jadeja",
+            "mobile": 8888,
+            "Email": "rj@8",
+            "Role": "Allrounder",
+            "photourl":"https://www.cricket.com.au/-/media/Players/Men/International/India/Ravindra-Jadeja-T20I2020.ashx" 
+        },
+        {
+            "Id":"jkl" ,
+            "name": "Bhuvi",
+            "mobile": 3333,
+            "Email": "bk@33",
+            "Role": "bowler",
+            "photourl": "https://www.cricket.com.au/-/media/Players/Men/International/India/2021%20T20WC/Bhuvneshwar-Kumar-2122.ashx"
+        }
+    ]
+}
